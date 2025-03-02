@@ -1,0 +1,8 @@
+# Nmap scan report for 192.168.1.105
+Nmap scan report for 192.168.1.105
+Host is up (0.12s latency).
+Not shown: 65532 closed ports
+PORT     STATE SERVICE  VERSION
+22/tcp   open  ssh      OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
+80/tcp   open  http     Apache httpd 2.4.29 ((Ubuntu))
+3306/tcp open  mysql    MySQL 5.7.33-0ubuntu0.18.04.1
